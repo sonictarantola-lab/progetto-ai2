@@ -20,5 +20,5 @@ Viene utilizzato il dataset **Infrared Thermography Temperature** (UCI ID: 925).
 **Tempo di esecuzione del Pairplot**: Nella sezione di Analisi Esplorativa (EDA), viene generato un pairplot. A causa dell'elevato numero di feature e della densità dei dati, la generazione di questo grafico può richiedere diversi minuti (**circa 2-3 minuti**).
 
 ## Riproducibilità
-** Le librerie utilizzate e il dataset vengono importate automaticamente.
-** Il random state dello split è 42.
+* Le librerie utilizzate e il dataset vengono importate automaticamente.
+* Il random state dello split è 42.
