@@ -10,3 +10,6 @@ Viene utilizzato il dataset **Infrared Thermography Temperature** (UCI ID: 925).
 * `pandas` e `numpy` per la manipolazione dati.
 * `seaborn` e `matplotlib` per l'analisi esplorativa (EDA).
 * `scikit-learn` per il preprocessing e il modello ElasticNet.
+
+### ⚠️ Avvertenze importanti
+**Tempo di esecuzione del Pairplot**: Nella sezione di Analisi Esplorativa (EDA), viene generato un pairplot. A causa dell'elevato numero di feature e della densità dei dati, la generazione di questo grafico può richiedere diversi minuti (**circa 2-3 minuti**).
