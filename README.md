@@ -3,10 +3,10 @@
 
 Questo progetto utilizza modelli di regressione lineare per stimare la temperatura orale partendo da dati termografici facciali.
 
-##Gruppo di lavoro
-*Francesco Borgogni
-*Andrea De Simone
-*Roberto Serafini
+## Gruppo di lavoro
+* Francesco Borgogni
+* Andrea De Simone
+* Roberto Serafini
 
 ## Dataset
 Viene utilizzato il dataset **Infrared Thermography Temperature** (UCI ID: 925).
